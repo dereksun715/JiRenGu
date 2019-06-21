@@ -22,13 +22,13 @@ Actullay, the browser do not know what is this URL, after you typed it. The brow
 
 The server is a machine with a system had installed on it, and the most common system are Linux, Windows Server 2012. Also, there is a application to manage the request in the system which is the Web Server, such as Apache, Nginx and IIS. The web server will accept the user's request and send to the code site, or anohter server.
 
-![google.com](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj3pPvClfviAhWQMd4KHdMhC1wQjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FClient%25E2%2580%2593server_model&psig=AOvVaw2QwR-MpQhnxyvqZQdUeTUl&ust=1561226863729710)
+![google.com](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Client-server-model.svg/1200px-Client-server-model.svg.png)
 
 ## process of managing the website
 
 ### **mvc(Model View Controller)**[mvc](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 
-![google.com](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj0wbqAlvviAhUNIIgKHUe_AtsQjRx6BAgBEAU&url=http%3A%2F%2Fthomasbartsch.net%2Fhow-asp-net-mvc-works%2F&psig=AOvVaw1E3qKvIo7O3rcHnPXLqgOz&ust=1561226926221687)
+![google.com](https://i1.wp.com/thomasbartsch.net/wp-content/uploads/2015/10/How-ASP.NET-MVC-works-home-controller2.png)
 
 ### The process of browser managing
 1. Analysis the HTML's character string
