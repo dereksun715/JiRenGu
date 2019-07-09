@@ -6,7 +6,7 @@
 
 CSS(Cascading Style Sheets) is the style sheet language for design the web pages, includes font-size, color, and layouts.
 
-##Basic Box Model
+## Basic Box Model
 
 Each of element has different spaces, apperence, and the box model also do. For example:
 
@@ -22,9 +22,9 @@ It is mainly designed to enable the distinction between presentation and content
 
 1. External Stylesheet: <link rel="stylesheet" href="xxxx.css">
 2. Internal Stylesheet: <style> h1{font-size:30px;}<style>
-3. Inline Stylesheet: <p style="background-color: burlywood; font-size: 10px;">Derek Sun</p>
+3. Inline Stylesheet:   <p style="background-color: burlywood; font-size: 10px;">Derek Sun</p>
 
-##CSS‘s operating principle
+## CSS‘s operating principle
 
 1. Load HTML
 2. Parse HTML>Load CSS>Parse CSS>Attach style to DOM nodes
