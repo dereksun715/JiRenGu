@@ -20,12 +20,9 @@ Each of element has different spaces, apperence, and the box model also do. For 
 
 It is mainly designed to enable the distinction between presentation and content, including colors, layouts, and fonts. It can be used in different types of devices, like large or small screens and printers. It is independent of HTML and can be used with any XML-based markup language.
 
-1. External Stylesheet
-<link rel="stylesheet" href="xxxx.css">
-2. Internal Stylesheet
-<style> h1{font-size:30px;}<style>
-3. Inline Stylesheet
-<p style="background-color: burlywood; font-size: 10px;">Derek Sun</p>
+1. External Stylesheet: <link rel="stylesheet" href="xxxx.css">
+2. Internal Stylesheet: <style> h1{font-size:30px;}<style>
+3. Inline Stylesheet: <p style="background-color: burlywood; font-size: 10px;">Derek Sun</p>
 
 ##CSS‘s operating principle
 
